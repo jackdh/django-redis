@@ -14,7 +14,7 @@ Full featured redis cache backend for Django.
 Documentation
 -------------
 
-http://niwinz.github.io/django-redis/latest/
+http://niwinz.github.io/django-redis/latest/ (`Prettified <https://outline.com/http://niwinz.github.io/django-redis/latest/>`_)
 
 简体中文版: 
 http://django-redis-chs.readthedocs.io/zh_CN/latest/
